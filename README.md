@@ -1,2 +1,2 @@
 # flare-on9
-all script, luoi viet wu qua :VVVVV
+all script here, luoi viet wu qua :VVVVV
