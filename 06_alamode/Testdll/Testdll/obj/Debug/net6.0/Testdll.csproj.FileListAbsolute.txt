@@ -1,0 +1,15 @@
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.csproj.AssemblyReference.cache
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.AssemblyInfoInputs.cache
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.AssemblyInfo.cs
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.csproj.CoreCompileInputs.cache
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.dll
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\refint\Testdll.dll
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.pdb
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\bin\Debug\net6.0\Testdll.exe
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\bin\Debug\net6.0\Testdll.deps.json
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\bin\Debug\net6.0\Testdll.runtimeconfig.json
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\bin\Debug\net6.0\Testdll.dll
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\bin\Debug\net6.0\Testdll.pdb
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\Testdll.genruntimeconfig.cache
+D:\CTF\Flareon9\06_alamode\Testdll\Testdll\obj\Debug\net6.0\ref\Testdll.dll

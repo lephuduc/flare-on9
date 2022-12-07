@@ -1,0 +1,15 @@
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\bin\Debug\net6.0\backdoor2.exe
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\bin\Debug\net6.0\backdoor2.deps.json
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\bin\Debug\net6.0\backdoor2.runtimeconfig.json
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\bin\Debug\net6.0\backdoor2.dll
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\bin\Debug\net6.0\backdoor2.pdb
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.csproj.AssemblyReference.cache
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.AssemblyInfoInputs.cache
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.AssemblyInfo.cs
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.csproj.CoreCompileInputs.cache
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.dll
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\refint\backdoor2.dll
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.pdb
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\backdoor2.genruntimeconfig.cache
+D:\CTF\Flareon9\08_backdoor\backdoor2\backdoor2\obj\Debug\net6.0\ref\backdoor2.dll

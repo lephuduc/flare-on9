@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "backdoor/1.0.0": {
+        "dependencies": {
+          "AsmResolver": "4.11.2.0",
+          "AsmResolver.DotNet": "4.11.2.0",
+          "AsmResolver.PE": "4.11.2.0",
+          "AsmResolver.PE.File": "4.11.2.0",
+          "AsmResolver.PE.Win32Resources": "4.11.2.0"
+        },
+        "runtime": {
+          "backdoor.dll": {}
+        }
+      },
+      "AsmResolver/4.11.2.0": {
+        "runtime": {
+          "AsmResolver.dll": {
+            "assemblyVersion": "4.11.2.0",
+            "fileVersion": "4.11.2.0"
+          }
+        }
+      },
+      "AsmResolver.DotNet/4.11.2.0": {
+        "runtime": {
+          "AsmResolver.DotNet.dll": {
+            "assemblyVersion": "4.11.2.0",
+            "fileVersion": "4.11.2.0"
+          }
+        }
+      },
+      "AsmResolver.PE/4.11.2.0": {
+        "runtime": {
+          "AsmResolver.PE.dll": {
+            "assemblyVersion": "4.11.2.0",
+            "fileVersion": "4.11.2.0"
+          }
+        }
+      },
+      "AsmResolver.PE.File/4.11.2.0": {
+        "runtime": {
+          "AsmResolver.PE.File.dll": {
+            "assemblyVersion": "4.11.2.0",
+            "fileVersion": "4.11.2.0"
+          }
+        }
+      },
+      "AsmResolver.PE.Win32Resources/4.11.2.0": {
+        "runtime": {
+          "AsmResolver.PE.Win32Resources.dll": {
+            "assemblyVersion": "4.11.2.0",
+            "fileVersion": "4.11.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "backdoor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsmResolver/4.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsmResolver.DotNet/4.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsmResolver.PE/4.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsmResolver.PE.File/4.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsmResolver.PE.Win32Resources/4.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
